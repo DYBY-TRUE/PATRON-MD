@@ -1,8 +1,8 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "8133729715"
+global.banknumber = "221786026985"
 
-global.bankowner = "FADARE"
+global.bankowner = "𝑫𝒀𝑩𝒀-𝑻𝑬𝑪𝑯"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
